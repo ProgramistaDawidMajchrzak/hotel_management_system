@@ -1,0 +1,13 @@
+hotel_management_frontend/node_modules/
+hotel_management_frontend/build/
+hotel_management_frontend/.env
+
+hotel_management_backend/bin/
+hotel_management_backend/obj/
+hotel_management_backend/.vs/
+hotel_management_backend/*.user
+hotel_management_backend/*.db
+
+*.log
+.env
+.DS_Store
